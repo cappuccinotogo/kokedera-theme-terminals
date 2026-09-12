@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1d2a1f"/>
+  <!-- shoulders -->
+  <path d="M8 64V58C10 50 18 46 30 45C44 44 54 48 57 58V64Z" fill="#5f6d57"/>
+  <!-- head: a tilted, weathered stone -->
+  <path d="M13 28C15 16 25 9 36 9C48 9 56 17 55 29L53 41C50 50 42 55 32 55C21 55 13 48 12 39Z" fill="#7d8b72" transform="rotate(-6 34 32)"/>
+  <path d="M16 28C23 20 31 17 40 18C48 19 53 24 54 31L52 35C44 30 36 29 30 30C24 31 19 33 15 37Z" fill="#95a389" transform="rotate(-6 34 32)"/>
+  <!-- eye socket + lantern eye -->
+  <path d="M24 37C29 32 36 31 42 33C47 35 50 39 51 44C45 50 38 52 31 51C26 50 23 45 24 37Z" fill="#101812" transform="rotate(-6 34 32)"/>
+  <circle cx="39" cy="42" r="6" fill="#e9b85a"/>
+  <circle cx="39" cy="42" r="9" fill="none" stroke="#b3883f" stroke-width="2" opacity=".85"/>
+  <!-- moss on the crown -->
+  <path d="M17 25C23 17 31 14 40 14C34 18 30 23 28 30C23 28 20 27 17 25Z" fill="#7bb06a" transform="rotate(-6 34 32)"/>
+  <path d="M48 21C52 22 55 24 56 28C53 27 50 27 47 28C48 25 48 23 48 21Z" fill="#6a9c5c" transform="rotate(-6 34 32)"/>
+</svg>

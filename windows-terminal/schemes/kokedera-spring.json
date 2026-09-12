@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Spring",
+  "background": "#1b2317",
+  "foreground": "#e7ead6",
+  "cursorColor": "#8ee65a",
+  "selectionBackground": "#3f5333",
+  "black": "#263421",
+  "red": "#c45a5a",
+  "green": "#85d44c",
+  "yellow": "#bfa243",
+  "blue": "#d98a9e",
+  "purple": "#9a7abf",
+  "cyan": "#c98ba0",
+  "white": "#e7ead6",
+  "brightBlack": "#5b674a",
+  "brightRed": "#d47070",
+  "brightGreen": "#97d45e",
+  "brightYellow": "#d4c88e",
+  "brightBlue": "#d494a8",
+  "brightPurple": "#b49ad4",
+  "brightCyan": "#cfa0b0",
+  "brightWhite": "#eef1da"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Morning",
+  "background": "#f4f2e6",
+  "foreground": "#333f2c",
+  "cursorColor": "#27ae37",
+  "selectionBackground": "#e0ddc8",
+  "black": "#ece9d8",
+  "red": "#b03a3a",
+  "green": "#349a3c",
+  "yellow": "#87691a",
+  "blue": "#1d7a5c",
+  "purple": "#7a4fa8",
+  "cyan": "#3d7a6c",
+  "white": "#333f2c",
+  "brightBlack": "#a8a492",
+  "brightRed": "#c25050",
+  "brightGreen": "#3b8a3c",
+  "brightYellow": "#75641a",
+  "brightBlue": "#2e8a6e",
+  "brightPurple": "#8a5fb8",
+  "brightCyan": "#4a8a7a",
+  "brightWhite": "#222b1c"
+}

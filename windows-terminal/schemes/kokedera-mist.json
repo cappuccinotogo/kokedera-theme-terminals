@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Mist",
+  "background": "#191e19",
+  "foreground": "#aab69e",
+  "cursorColor": "#7dbf7d",
+  "selectionBackground": "#374235",
+  "black": "#242a23",
+  "red": "#a87373",
+  "green": "#74ab6c",
+  "yellow": "#a8935a",
+  "blue": "#6b8fa6",
+  "purple": "#9787ab",
+  "cyan": "#7b98a8",
+  "white": "#aab69e",
+  "brightBlack": "#6a7566",
+  "brightRed": "#b37b7b",
+  "brightGreen": "#8ab383",
+  "brightYellow": "#b5a97e",
+  "brightBlue": "#7ba093",
+  "brightPurple": "#a396bd",
+  "brightCyan": "#8faca4",
+  "brightWhite": "#dae0d2"
+}

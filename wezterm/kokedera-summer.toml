@@ -1,0 +1,15 @@
+# Kokedera Summer — generated from the shared Kokedera palette.
+[metadata]
+name = "Kokedera Summer"
+author = "Kokedera"
+
+[colors]
+background = "#0c1a0b"
+foreground = "#d2e7bd"
+cursor_bg = "#4bf05f"
+cursor_border = "#4bf05f"
+cursor_fg = "#0c1a0b"
+selection_bg = "#1d3d18"
+selection_fg = "#d2e7bd"
+ansi = ["#112510","#c45a5a","#3dd65a","#cfae3a","#1fb87a","#9a7abf","#3dbf9f","#d2e7bd"]
+brights = ["#4b6540","#d47070","#56d165","#e0c565","#3fd0a8","#b49ad4","#62c9ae","#e5f5d3"]

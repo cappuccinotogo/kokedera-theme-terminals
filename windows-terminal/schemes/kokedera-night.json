@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Night",
+  "background": "#0a0e09",
+  "foreground": "#e5eedc",
+  "cursorColor": "#7bf67b",
+  "selectionBackground": "#172215",
+  "black": "#0e150e",
+  "red": "#d77373",
+  "green": "#71cc71",
+  "yellow": "#d3b658",
+  "blue": "#3ebc84",
+  "purple": "#b296d3",
+  "cyan": "#6cb4a4",
+  "white": "#e5eedc",
+  "brightBlack": "#4a5a44",
+  "brightRed": "#e68f8f",
+  "brightGreen": "#98d787",
+  "brightYellow": "#e7ddb0",
+  "brightBlue": "#71ccb3",
+  "brightPurple": "#d0bde7",
+  "brightCyan": "#94cdbe",
+  "brightWhite": "#ebf4e1"
+}

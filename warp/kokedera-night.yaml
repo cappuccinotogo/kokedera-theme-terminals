@@ -1,0 +1,26 @@
+# Kokedera Night — generated from the shared Kokedera palette.
+name: "Kokedera Night"
+accent: "#7bf67b"
+cursor: "#7bf67b"
+background: "#0a0e09"
+foreground: "#e5eedc"
+details: darker
+terminal_colors:
+  normal:
+    black: "#0e150e"
+    red: "#d77373"
+    green: "#71cc71"
+    yellow: "#d3b658"
+    blue: "#3ebc84"
+    magenta: "#b296d3"
+    cyan: "#6cb4a4"
+    white: "#e5eedc"
+  bright:
+    black: "#4a5a44"
+    red: "#e68f8f"
+    green: "#98d787"
+    yellow: "#e7ddb0"
+    blue: "#71ccb3"
+    magenta: "#d0bde7"
+    cyan: "#94cdbe"
+    white: "#ebf4e1"

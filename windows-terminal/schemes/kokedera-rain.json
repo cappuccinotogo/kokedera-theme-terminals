@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Rain",
+  "background": "#111a19",
+  "foreground": "#b8d8c8",
+  "cursorColor": "#5ae6e6",
+  "selectionBackground": "#263d39",
+  "black": "#192625",
+  "red": "#c45a5a",
+  "green": "#5ab8b8",
+  "yellow": "#bfa243",
+  "blue": "#3d84ad",
+  "purple": "#9a7abf",
+  "cyan": "#5a8b9e",
+  "white": "#b8d8c8",
+  "brightBlack": "#445a54",
+  "brightRed": "#d47070",
+  "brightGreen": "#6cc4b2",
+  "brightYellow": "#d4c88e",
+  "brightBlue": "#4a9ec2",
+  "brightPurple": "#b49ad4",
+  "brightCyan": "#7aa6c2",
+  "brightWhite": "#cae8d8"
+}

@@ -1,0 +1,23 @@
+# Kokedera Spring — generated from the shared Kokedera palette.
+background = #1b2317
+foreground = #e7ead6
+cursor-color = #8ee65a
+cursor-text = #1b2317
+selection-background = #3f5333
+selection-foreground = #e7ead6
+palette = 0=#263421
+palette = 1=#c45a5a
+palette = 2=#85d44c
+palette = 3=#bfa243
+palette = 4=#d98a9e
+palette = 5=#9a7abf
+palette = 6=#c98ba0
+palette = 7=#e7ead6
+palette = 8=#5b674a
+palette = 9=#d47070
+palette = 10=#97d45e
+palette = 11=#d4c88e
+palette = 12=#d494a8
+palette = 13=#b49ad4
+palette = 14=#cfa0b0
+palette = 15=#eef1da

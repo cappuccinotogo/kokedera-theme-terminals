@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kokedera Summer
+ColorForeground=#d2e7bd
+ColorBackground=#0c1a0b
+ColorCursor=#4bf05f
+ColorCursorForeground=#0c1a0b
+ColorCursorUseDefault=FALSE
+ColorSelection=#d2e7bd
+ColorSelectionBackground=#1d3d18
+ColorSelectionUseDefault=FALSE
+ColorPalette=#112510;#c45a5a;#3dd65a;#cfae3a;#1fb87a;#9a7abf;#3dbf9f;#d2e7bd;#4b6540;#d47070;#56d165;#e0c565;#3fd0a8;#b49ad4;#62c9ae;#e5f5d3

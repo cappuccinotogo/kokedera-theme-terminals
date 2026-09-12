@@ -1,0 +1,15 @@
+# Kokedera Winter — generated from the shared Kokedera palette.
+[metadata]
+name = "Kokedera Winter"
+author = "Kokedera"
+
+[colors]
+background = "#eef0ee"
+foreground = "#323c36"
+cursor_bg = "#1f8aa8"
+cursor_border = "#1f8aa8"
+cursor_fg = "#eef0ee"
+selection_bg = "#d4dad4"
+selection_fg = "#323c36"
+ansi = ["#e2e6e2","#a84848","#2a7f9c","#7a6518","#1f7d6b","#6b5a9a","#357d70","#323c36"]
+brights = ["#a2aaa2","#b85858","#2e7a8a","#6b5c2a","#2a8a75","#7d6aab","#4a8a7e","#222b26"]

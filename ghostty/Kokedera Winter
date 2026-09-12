@@ -1,0 +1,23 @@
+# Kokedera Winter — generated from the shared Kokedera palette.
+background = #eef0ee
+foreground = #323c36
+cursor-color = #1f8aa8
+cursor-text = #eef0ee
+selection-background = #d4dad4
+selection-foreground = #323c36
+palette = 0=#e2e6e2
+palette = 1=#a84848
+palette = 2=#2a7f9c
+palette = 3=#7a6518
+palette = 4=#1f7d6b
+palette = 5=#6b5a9a
+palette = 6=#357d70
+palette = 7=#323c36
+palette = 8=#a2aaa2
+palette = 9=#b85858
+palette = 10=#2e7a8a
+palette = 11=#6b5c2a
+palette = 12=#2a8a75
+palette = 13=#7d6aab
+palette = 14=#4a8a7e
+palette = 15=#222b26

@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kokedera Autumn
+ColorForeground=#d8c1b8
+ColorBackground=#1a1511
+ColorCursor=#e6945a
+ColorCursorForeground=#1a1511
+ColorCursorUseDefault=FALSE
+ColorSelection=#d8c1b8
+ColorSelectionBackground=#3d3026
+ColorSelectionUseDefault=FALSE
+ColorPalette=#261e19;#c45a5a;#b8815a;#bfa243;#c76c48;#9a7abf;#c47a5e;#d8c1b8;#5a4c44;#d47070;#c48c6c;#d4c88e;#cc8266;#b49ad4;#cf9480;#e8d3ca

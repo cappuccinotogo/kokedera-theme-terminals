@@ -1,0 +1,26 @@
+# Kokedera Dusk — generated from the shared Kokedera palette.
+name: "Kokedera Dusk"
+accent: "#5ae65a"
+cursor: "#5ae65a"
+background: "#121a11"
+foreground: "#c8d8b8"
+details: darker
+terminal_colors:
+  normal:
+    black: "#1a2619"
+    red: "#c45a5a"
+    green: "#5ab85a"
+    yellow: "#bfa243"
+    blue: "#3d9970"
+    magenta: "#9a7abf"
+    cyan: "#5a9e8f"
+    white: "#c8d8b8"
+  bright:
+    black: "#4a5a44"
+    red: "#d47070"
+    green: "#7ec46c"
+    yellow: "#d4c88e"
+    blue: "#5ab89e"
+    magenta: "#b49ad4"
+    cyan: "#7ab8a8"
+    white: "#dae8ca"

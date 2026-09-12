@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Dusk",
+  "background": "#121a11",
+  "foreground": "#c8d8b8",
+  "cursorColor": "#5ae65a",
+  "selectionBackground": "#2a3d26",
+  "black": "#1a2619",
+  "red": "#c45a5a",
+  "green": "#5ab85a",
+  "yellow": "#bfa243",
+  "blue": "#3d9970",
+  "purple": "#9a7abf",
+  "cyan": "#5a9e8f",
+  "white": "#c8d8b8",
+  "brightBlack": "#4a5a44",
+  "brightRed": "#d47070",
+  "brightGreen": "#7ec46c",
+  "brightYellow": "#d4c88e",
+  "brightBlue": "#5ab89e",
+  "brightPurple": "#b49ad4",
+  "brightCyan": "#7ab8a8",
+  "brightWhite": "#dae8ca"
+}

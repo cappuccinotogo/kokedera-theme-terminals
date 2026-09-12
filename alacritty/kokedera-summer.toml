@@ -1,0 +1,32 @@
+# Kokedera Summer — generated from the shared Kokedera palette.
+[colors.primary]
+background = "#0c1a0b"
+foreground = "#d2e7bd"
+
+[colors.cursor]
+text = "#0c1a0b"
+cursor = "#4bf05f"
+
+[colors.selection]
+text = "#d2e7bd"
+background = "#1d3d18"
+
+[colors.normal]
+black = "#112510"
+red = "#c45a5a"
+green = "#3dd65a"
+yellow = "#cfae3a"
+blue = "#1fb87a"
+magenta = "#9a7abf"
+cyan = "#3dbf9f"
+white = "#d2e7bd"
+
+[colors.bright]
+black = "#4b6540"
+red = "#d47070"
+green = "#56d165"
+yellow = "#e0c565"
+blue = "#3fd0a8"
+magenta = "#b49ad4"
+cyan = "#62c9ae"
+white = "#e5f5d3"

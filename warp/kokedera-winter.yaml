@@ -1,0 +1,26 @@
+# Kokedera Winter — generated from the shared Kokedera palette.
+name: "Kokedera Winter"
+accent: "#1f8aa8"
+cursor: "#1f8aa8"
+background: "#eef0ee"
+foreground: "#323c36"
+details: lighter
+terminal_colors:
+  normal:
+    black: "#e2e6e2"
+    red: "#a84848"
+    green: "#2a7f9c"
+    yellow: "#7a6518"
+    blue: "#1f7d6b"
+    magenta: "#6b5a9a"
+    cyan: "#357d70"
+    white: "#323c36"
+  bright:
+    black: "#a2aaa2"
+    red: "#b85858"
+    green: "#2e7a8a"
+    yellow: "#6b5c2a"
+    blue: "#2a8a75"
+    magenta: "#7d6aab"
+    cyan: "#4a8a7e"
+    white: "#222b26"

@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Summer",
+  "background": "#0c1a0b",
+  "foreground": "#d2e7bd",
+  "cursorColor": "#4bf05f",
+  "selectionBackground": "#1d3d18",
+  "black": "#112510",
+  "red": "#c45a5a",
+  "green": "#3dd65a",
+  "yellow": "#cfae3a",
+  "blue": "#1fb87a",
+  "purple": "#9a7abf",
+  "cyan": "#3dbf9f",
+  "white": "#d2e7bd",
+  "brightBlack": "#4b6540",
+  "brightRed": "#d47070",
+  "brightGreen": "#56d165",
+  "brightYellow": "#e0c565",
+  "brightBlue": "#3fd0a8",
+  "brightPurple": "#b49ad4",
+  "brightCyan": "#62c9ae",
+  "brightWhite": "#e5f5d3"
+}

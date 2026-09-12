@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kokedera Winter
+ColorForeground=#323c36
+ColorBackground=#eef0ee
+ColorCursor=#1f8aa8
+ColorCursorForeground=#eef0ee
+ColorCursorUseDefault=FALSE
+ColorSelection=#323c36
+ColorSelectionBackground=#d4dad4
+ColorSelectionUseDefault=FALSE
+ColorPalette=#e2e6e2;#a84848;#2a7f9c;#7a6518;#1f7d6b;#6b5a9a;#357d70;#323c36;#a2aaa2;#b85858;#2e7a8a;#6b5c2a;#2a8a75;#7d6aab;#4a8a7e;#222b26

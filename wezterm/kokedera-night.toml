@@ -1,0 +1,15 @@
+# Kokedera Night — generated from the shared Kokedera palette.
+[metadata]
+name = "Kokedera Night"
+author = "Kokedera"
+
+[colors]
+background = "#0a0e09"
+foreground = "#e5eedc"
+cursor_bg = "#7bf67b"
+cursor_border = "#7bf67b"
+cursor_fg = "#0a0e09"
+selection_bg = "#172215"
+selection_fg = "#e5eedc"
+ansi = ["#0e150e","#d77373","#71cc71","#d3b658","#3ebc84","#b296d3","#6cb4a4","#e5eedc"]
+brights = ["#4a5a44","#e68f8f","#98d787","#e7ddb0","#71ccb3","#d0bde7","#94cdbe","#ebf4e1"]

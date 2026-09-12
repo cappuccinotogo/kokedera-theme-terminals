@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kokedera Morning
+ColorForeground=#333f2c
+ColorBackground=#f4f2e6
+ColorCursor=#27ae37
+ColorCursorForeground=#f4f2e6
+ColorCursorUseDefault=FALSE
+ColorSelection=#333f2c
+ColorSelectionBackground=#e0ddc8
+ColorSelectionUseDefault=FALSE
+ColorPalette=#ece9d8;#b03a3a;#349a3c;#87691a;#1d7a5c;#7a4fa8;#3d7a6c;#333f2c;#a8a492;#c25050;#3b8a3c;#75641a;#2e8a6e;#8a5fb8;#4a8a7a;#222b1c

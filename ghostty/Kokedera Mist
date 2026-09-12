@@ -1,0 +1,23 @@
+# Kokedera Mist — generated from the shared Kokedera palette.
+background = #191e19
+foreground = #aab69e
+cursor-color = #7dbf7d
+cursor-text = #191e19
+selection-background = #374235
+selection-foreground = #aab69e
+palette = 0=#242a23
+palette = 1=#a87373
+palette = 2=#74ab6c
+palette = 3=#a8935a
+palette = 4=#6b8fa6
+palette = 5=#9787ab
+palette = 6=#7b98a8
+palette = 7=#aab69e
+palette = 8=#6a7566
+palette = 9=#b37b7b
+palette = 10=#8ab383
+palette = 11=#b5a97e
+palette = 12=#7ba093
+palette = 13=#a396bd
+palette = 14=#8faca4
+palette = 15=#dae0d2

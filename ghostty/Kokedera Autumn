@@ -1,0 +1,23 @@
+# Kokedera Autumn — generated from the shared Kokedera palette.
+background = #1a1511
+foreground = #d8c1b8
+cursor-color = #e6945a
+cursor-text = #1a1511
+selection-background = #3d3026
+selection-foreground = #d8c1b8
+palette = 0=#261e19
+palette = 1=#c45a5a
+palette = 2=#b8815a
+palette = 3=#bfa243
+palette = 4=#c76c48
+palette = 5=#9a7abf
+palette = 6=#c47a5e
+palette = 7=#d8c1b8
+palette = 8=#5a4c44
+palette = 9=#d47070
+palette = 10=#c48c6c
+palette = 11=#d4c88e
+palette = 12=#cc8266
+palette = 13=#b49ad4
+palette = 14=#cf9480
+palette = 15=#e8d3ca

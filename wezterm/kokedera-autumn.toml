@@ -1,0 +1,15 @@
+# Kokedera Autumn — generated from the shared Kokedera palette.
+[metadata]
+name = "Kokedera Autumn"
+author = "Kokedera"
+
+[colors]
+background = "#1a1511"
+foreground = "#d8c1b8"
+cursor_bg = "#e6945a"
+cursor_border = "#e6945a"
+cursor_fg = "#1a1511"
+selection_bg = "#3d3026"
+selection_fg = "#d8c1b8"
+ansi = ["#261e19","#c45a5a","#b8815a","#bfa243","#c76c48","#9a7abf","#c47a5e","#d8c1b8"]
+brights = ["#5a4c44","#d47070","#c48c6c","#d4c88e","#cc8266","#b49ad4","#cf9480","#e8d3ca"]

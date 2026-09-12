@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kokedera Dusk
+ColorForeground=#c8d8b8
+ColorBackground=#121a11
+ColorCursor=#5ae65a
+ColorCursorForeground=#121a11
+ColorCursorUseDefault=FALSE
+ColorSelection=#c8d8b8
+ColorSelectionBackground=#2a3d26
+ColorSelectionUseDefault=FALSE
+ColorPalette=#1a2619;#c45a5a;#5ab85a;#bfa243;#3d9970;#9a7abf;#5a9e8f;#c8d8b8;#4a5a44;#d47070;#7ec46c;#d4c88e;#5ab89e;#b49ad4;#7ab8a8;#dae8ca

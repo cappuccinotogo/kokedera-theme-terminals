@@ -1,0 +1,15 @@
+# Kokedera Rain — generated from the shared Kokedera palette.
+[metadata]
+name = "Kokedera Rain"
+author = "Kokedera"
+
+[colors]
+background = "#111a19"
+foreground = "#b8d8c8"
+cursor_bg = "#5ae6e6"
+cursor_border = "#5ae6e6"
+cursor_fg = "#111a19"
+selection_bg = "#263d39"
+selection_fg = "#b8d8c8"
+ansi = ["#192625","#c45a5a","#5ab8b8","#bfa243","#3d84ad","#9a7abf","#5a8b9e","#b8d8c8"]
+brights = ["#445a54","#d47070","#6cc4b2","#d4c88e","#4a9ec2","#b49ad4","#7aa6c2","#cae8d8"]

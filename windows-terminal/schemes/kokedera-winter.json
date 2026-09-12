@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Winter",
+  "background": "#eef0ee",
+  "foreground": "#323c36",
+  "cursorColor": "#1f8aa8",
+  "selectionBackground": "#d4dad4",
+  "black": "#e2e6e2",
+  "red": "#a84848",
+  "green": "#2a7f9c",
+  "yellow": "#7a6518",
+  "blue": "#1f7d6b",
+  "purple": "#6b5a9a",
+  "cyan": "#357d70",
+  "white": "#323c36",
+  "brightBlack": "#a2aaa2",
+  "brightRed": "#b85858",
+  "brightGreen": "#2e7a8a",
+  "brightYellow": "#6b5c2a",
+  "brightBlue": "#2a8a75",
+  "brightPurple": "#7d6aab",
+  "brightCyan": "#4a8a7e",
+  "brightWhite": "#222b26"
+}

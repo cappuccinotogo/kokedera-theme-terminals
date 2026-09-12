@@ -1,0 +1,23 @@
+{
+  "name": "Kokedera Autumn",
+  "background": "#1a1511",
+  "foreground": "#d8c1b8",
+  "cursorColor": "#e6945a",
+  "selectionBackground": "#3d3026",
+  "black": "#261e19",
+  "red": "#c45a5a",
+  "green": "#b8815a",
+  "yellow": "#bfa243",
+  "blue": "#c76c48",
+  "purple": "#9a7abf",
+  "cyan": "#c47a5e",
+  "white": "#d8c1b8",
+  "brightBlack": "#5a4c44",
+  "brightRed": "#d47070",
+  "brightGreen": "#c48c6c",
+  "brightYellow": "#d4c88e",
+  "brightBlue": "#cc8266",
+  "brightPurple": "#b49ad4",
+  "brightCyan": "#cf9480",
+  "brightWhite": "#e8d3ca"
+}

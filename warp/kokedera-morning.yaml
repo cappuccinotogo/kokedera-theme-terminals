@@ -1,0 +1,26 @@
+# Kokedera Morning — generated from the shared Kokedera palette.
+name: "Kokedera Morning"
+accent: "#27ae37"
+cursor: "#27ae37"
+background: "#f4f2e6"
+foreground: "#333f2c"
+details: lighter
+terminal_colors:
+  normal:
+    black: "#ece9d8"
+    red: "#b03a3a"
+    green: "#349a3c"
+    yellow: "#87691a"
+    blue: "#1d7a5c"
+    magenta: "#7a4fa8"
+    cyan: "#3d7a6c"
+    white: "#333f2c"
+  bright:
+    black: "#a8a492"
+    red: "#c25050"
+    green: "#3b8a3c"
+    yellow: "#75641a"
+    blue: "#2e8a6e"
+    magenta: "#8a5fb8"
+    cyan: "#4a8a7a"
+    white: "#222b1c"

@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kokedera Mist
+ColorForeground=#aab69e
+ColorBackground=#191e19
+ColorCursor=#7dbf7d
+ColorCursorForeground=#191e19
+ColorCursorUseDefault=FALSE
+ColorSelection=#aab69e
+ColorSelectionBackground=#374235
+ColorSelectionUseDefault=FALSE
+ColorPalette=#242a23;#a87373;#74ab6c;#a8935a;#6b8fa6;#9787ab;#7b98a8;#aab69e;#6a7566;#b37b7b;#8ab383;#b5a97e;#7ba093;#a396bd;#8faca4;#dae0d2

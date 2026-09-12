@@ -1,0 +1,26 @@
+# Kokedera Rain — generated from the shared Kokedera palette.
+name: "Kokedera Rain"
+accent: "#5ae6e6"
+cursor: "#5ae6e6"
+background: "#111a19"
+foreground: "#b8d8c8"
+details: darker
+terminal_colors:
+  normal:
+    black: "#192625"
+    red: "#c45a5a"
+    green: "#5ab8b8"
+    yellow: "#bfa243"
+    blue: "#3d84ad"
+    magenta: "#9a7abf"
+    cyan: "#5a8b9e"
+    white: "#b8d8c8"
+  bright:
+    black: "#445a54"
+    red: "#d47070"
+    green: "#6cc4b2"
+    yellow: "#d4c88e"
+    blue: "#4a9ec2"
+    magenta: "#b49ad4"
+    cyan: "#7aa6c2"
+    white: "#cae8d8"

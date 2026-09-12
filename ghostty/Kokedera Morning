@@ -1,0 +1,23 @@
+# Kokedera Morning — generated from the shared Kokedera palette.
+background = #f4f2e6
+foreground = #333f2c
+cursor-color = #27ae37
+cursor-text = #f4f2e6
+selection-background = #e0ddc8
+selection-foreground = #333f2c
+palette = 0=#ece9d8
+palette = 1=#b03a3a
+palette = 2=#349a3c
+palette = 3=#87691a
+palette = 4=#1d7a5c
+palette = 5=#7a4fa8
+palette = 6=#3d7a6c
+palette = 7=#333f2c
+palette = 8=#a8a492
+palette = 9=#c25050
+palette = 10=#3b8a3c
+palette = 11=#75641a
+palette = 12=#2e8a6e
+palette = 13=#8a5fb8
+palette = 14=#4a8a7a
+palette = 15=#222b1c

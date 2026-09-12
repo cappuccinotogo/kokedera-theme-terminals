@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kokedera Night
+ColorForeground=#e5eedc
+ColorBackground=#0a0e09
+ColorCursor=#7bf67b
+ColorCursorForeground=#0a0e09
+ColorCursorUseDefault=FALSE
+ColorSelection=#e5eedc
+ColorSelectionBackground=#172215
+ColorSelectionUseDefault=FALSE
+ColorPalette=#0e150e;#d77373;#71cc71;#d3b658;#3ebc84;#b296d3;#6cb4a4;#e5eedc;#4a5a44;#e68f8f;#98d787;#e7ddb0;#71ccb3;#d0bde7;#94cdbe;#ebf4e1

@@ -1,0 +1,15 @@
+# Kokedera Morning — generated from the shared Kokedera palette.
+[metadata]
+name = "Kokedera Morning"
+author = "Kokedera"
+
+[colors]
+background = "#f4f2e6"
+foreground = "#333f2c"
+cursor_bg = "#27ae37"
+cursor_border = "#27ae37"
+cursor_fg = "#f4f2e6"
+selection_bg = "#e0ddc8"
+selection_fg = "#333f2c"
+ansi = ["#ece9d8","#b03a3a","#349a3c","#87691a","#1d7a5c","#7a4fa8","#3d7a6c","#333f2c"]
+brights = ["#a8a492","#c25050","#3b8a3c","#75641a","#2e8a6e","#8a5fb8","#4a8a7a","#222b1c"]

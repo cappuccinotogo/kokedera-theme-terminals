@@ -1,0 +1,23 @@
+# Kokedera Summer — generated from the shared Kokedera palette.
+background = #0c1a0b
+foreground = #d2e7bd
+cursor-color = #4bf05f
+cursor-text = #0c1a0b
+selection-background = #1d3d18
+selection-foreground = #d2e7bd
+palette = 0=#112510
+palette = 1=#c45a5a
+palette = 2=#3dd65a
+palette = 3=#cfae3a
+palette = 4=#1fb87a
+palette = 5=#9a7abf
+palette = 6=#3dbf9f
+palette = 7=#d2e7bd
+palette = 8=#4b6540
+palette = 9=#d47070
+palette = 10=#56d165
+palette = 11=#e0c565
+palette = 12=#3fd0a8
+palette = 13=#b49ad4
+palette = 14=#62c9ae
+palette = 15=#e5f5d3
