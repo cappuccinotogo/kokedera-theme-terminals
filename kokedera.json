@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "repository": "cappuccinotogo/kokedera-theme-terminals",
   "generator": "https://github.com/cappuccinotogo/kokedera-theme-ports",
-  "generatorHash": "8151c12cf8cdd1cb0ad837d1cd9f297db83f1959cde46219df6edd827ec39c61",
-  "paletteHash": "5fbe2aeb639efa1e33f054415b37f4fb7b2cd3300779950362e9c55c975ce8ca",
+  "generatorHash": "c5298e887dcdaf690784fda69fe52f8b45dc1f3cd8aaf4561b47ed963b2594f6",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
   "variants": [
     {
       "id": "dusk",
@@ -141,7 +141,7 @@
     "mobaxterm/kokedera-spring.ini": "61f6312418d1e140881389b3f343a36ab2ffd43142e4e9e31e0b91599dd1055c",
     "mobaxterm/kokedera-summer.ini": "e265f4547edd471dce05c870e01e5d6f9d719f545056b909da2ec196642740e8",
     "mobaxterm/kokedera-winter.ini": "80de42837fb9feb85c3d9237fb726c3a37074087d116210013d17eb9800ea286",
-    "preview-ansi.py": "0bf438fc293118c0f6e0594d7d019251682f7607632a3fdc09072c3d30979d78",
+    "preview-ansi.py": "61f22a44e4fbe2890116dbff18a7d7d637c02d7260108eb41ddd69d0601fd475",
     "putty/README.md": "7a1b28bff4b44e93f02ad40c5ae5bcc41ad8132821cda1f54bc9c6ddb3a21ce3",
     "putty/kokedera-autumn.reg": "2f3ff33f7e813af4fa3368cc792ad2e505a0965eb35beacfce61b676342e2a9b",
     "putty/kokedera-dusk.reg": "9c364dc5df49b8560503b076e42052da1863ddb94be08c2663ddb65eddda792b",
